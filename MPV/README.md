@@ -30,7 +30,7 @@ https://github.com/mpv-player/mpv
 
 - **Aktiivisuus:** 
 	- Uusia julkaisuja siihen on tullut historiallisesti noin kerran tai kaksi kuukaudessa, mutta viimeisimmissä päivityksissä aikaa päivitysten välillä on ollut jopa puoli vuotta.
-	- Eri versiolla paikkaus versioita tulee nollasta kahteen kertaan, jossa paikataan yleensä lukuisia virheitä kerralla.
+	- Eri versiolla paikkaus versioita tulee nollasta kahteen kertaan suurempien päivitysten välissä, jossa paikataan yleensä lukuisia virheitä kerralla.
 	- Ongelmia oli suljettu 16 kappaletta viimeisen kahden viikon aikana, joten projekti on vielä melko aktiivinen.
 - **Ylläpito:**
 	- Projektilla on 438 avustajaa (contributors) ja tämä yhteisö yhdessä ylläpitää projektia.
