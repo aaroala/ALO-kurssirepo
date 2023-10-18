@@ -24,7 +24,7 @@ https://github.com/mpv-player/mpv
 
 ### Projektin Historia ja Aktiivisuus
 - **Historia:** 
-	- Projekti julkaistiin githubiin 8. elokuuta 2013, mutta sai alkunsa jo vuonna 2012 kun se forkattiin avoimen lähdekoodin ohjelmistoista MPlayer:ista. 
+	- Projekti julkaistiin githubiin 8. elokuuta 2013, mutta sai alkunsa jo vuonna 2012 kun se forkattiin avoimen lähdekoodin ohjelmistoista MPlayer2:sta. 
 	- Suuria virstanpylväitä sillä ei ole ollut, eikä todennäköisesti suuria päivityksiä tule, koska ohjelmisto on vain mediasoitin.
 
 - **Aktiivisuus:** 
